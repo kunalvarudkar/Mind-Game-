@@ -1,4 +1,6 @@
 # Mind-Game-
+Developer :- Kunal Varudkar
+Needs Gcc compiler for linux and Turbo C or any other compiler for Windows
 Developed in C language using Graphics library
 2 modes of Game :- user and Cpu
 With CPU :- an algo will work which will try to predict the colors which user has selected
