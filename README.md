@@ -1,5 +1,5 @@
 # Mind-Game-
-Developer :- Kunal Varudkar
+Developer :- Kunal Varudkar and Ishwar Thakare
 Needs Gcc compiler for linux and Turbo C or any other compiler for Windows
 Developed in C language using Graphics library
 2 modes of Game :- user and Cpu
